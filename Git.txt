@@ -1,4 +1,4 @@
 Inicio da Aula de Git
 Continuação da aula Git 
 Logo vamos embora
-Porém agora está chovendo
+Agora parou de chover
